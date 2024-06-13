@@ -1,0 +1,6 @@
+- 👋 Hello, @basementuser here,
+- I'll mostly come on here to post random projects that I get super into for like a month,
+- Right now I'm starting to learn how to make circuit boards so if my gerber files are trash now you know why.
+- Any project I have available here is completely opensource so feel free to modify it to your needs.
+- You can reach me at wizzardofhazz@gmail.com or on discord at wizzardofhazz but honestly I don't check it too much.
+- ⚡ Fun fact: ...I'm not going to do this bit
